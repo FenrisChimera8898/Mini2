@@ -1,0 +1,1177 @@
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/ShotgunReload.uasset" 0
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/ShieldSmash.uasset" 1
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/FemaleDying1.uasset" 2
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Shield/shield_Roughness.uasset" 3
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Shield/shield_Normal.uasset" 4
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Shield/shield_Base_Color.uasset" 5
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Shield/ShieldMAT.uasset" 6
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/shield.uasset" 7
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 8
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Guns/GunParentTank.uasset" 9
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Guns/ShotGun.uasset" 10
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/RifleReload.uasset" 11
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 12
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 13
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 14
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 15
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Guns/SplineBox.uasset" 16
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Guns/SplineMAT.uasset" 17
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Guns/SpilneCyl.uasset" 18
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 19
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 20
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 22
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 23
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 24
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 25
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 26
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Burst_M.uasset" 27
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/Materials/M_Burst.uasset" 28
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/P_Explosion.uasset" 29
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/RifleShoot.uasset" 30
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/RatSqueak1.uasset" 31
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 32
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 33
+"../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset" 34
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 35
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uasset" 36
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 37
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 38
+"../../Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uasset" 39
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 40
+"../../Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uasset" 41
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 42
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/VortexForce.uasset" 43
+"../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset" 44
+"../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl16.uasset" 45
+"../../Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 46
+"../../Plugins/FX/Niagara/Content/Functions/V2/RemapRange.uasset" 47
+"../../Plugins/FX/Niagara/Content/Functions/V2/ConeMask.uasset" 48
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset" 49
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/CurlNoiseForce.uasset" 50
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 51
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 52
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 53
+"../../Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 54
+"../../Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 55
+"../../Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uasset" 56
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 57
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 58
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 59
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uasset" 60
+"../../Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 61
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 62
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 63
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 64
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 65
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 66
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 67
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 68
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 69
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 70
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 71
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 72
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 73
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 74
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 75
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 76
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 77
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 78
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 79
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 80
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 81
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 82
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 83
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 84
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 85
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 86
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 87
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 88
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 89
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 90
+"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 91
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 92
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 93
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 94
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 95
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 96
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 97
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 98
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 99
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 100
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 101
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 102
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 103
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Particles/DeathSystem.uasset" 104
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uasset" 105
+"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 106
+"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 107
+"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 108
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 109
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Particles/BloodSystem.uasset" 110
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 111
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Meshes/BaseMaterial.uasset" 112
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 113
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 114
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 115
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/SphereMaterial.uasset" 116
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/PauseMenu/PausedTitle.uasset" 117
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/MainMenu/PlayButton.uasset" 118
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/Gameover/MainMenuButton.uasset" 119
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/PauseMenu/PauseMenu.uasset" 120
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Explosion01.uasset" 121
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/FemaleDying2.uasset" 122
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Guns/AssaultRifle.uasset" 123
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterIdle_Skeleton.uasset" 124
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterIdleV3_PhysicsAsset.uasset" 125
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AutoRifle/auto_rifle_new_ROUGH.uasset" 126
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AutoRifle/auto_rifle_new_NORM.uasset" 127
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AutoRifle/auto_rifle_new_METAL.uasset" 128
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AutoRifle/auto_rifle_new_DIFF.uasset" 129
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AutoRifle/AutoRifleMAT.uasset" 130
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Shorts_ROUGH.uasset" 131
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Shorts_NORM.uasset" 132
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Shorts_DIFF.uasset" 133
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/FighterShortsMAT.uasset" 134
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Hair_ROUGH.uasset" 135
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Hair_NORM.uasset" 136
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Hair_DIFF.uasset" 137
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/FighterHairMAT.uasset" 138
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Cloth_ROUGH.uasset" 139
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Cloth_NORM.uasset" 140
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Cloth_METAL.uasset" 141
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Cloth_DIFF.uasset" 142
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/FighterClothMAT.uasset" 143
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Body_ROUGH.uasset" 144
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Body_NORM.uasset" 145
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Body_METAL.uasset" 146
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Body_DIFF.uasset" 147
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/FighterBodyMAT.uasset" 148
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Arm_and_leg_armor_ROUGH.uasset" 149
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Arm_and_leg_armor_NORM.uasset" 150
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Arm_and_leg_armor_METAL.uasset" 151
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/character1_Arm_and_leg_armor_DIFF.uasset" 152
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FighterCharacter/FighterArmourMAT.uasset" 153
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterIdleV3.uasset" 154
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterIdleV3.uasset" 155
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 156
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 157
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterIdleV2_Anim.uasset" 158
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterIdleV2_Anim.uasset" 159
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterReload_Anim.uasset" 160
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterSingleShot_Anim.uasset" 161
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterRun_Anim.uasset" 162
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterRocketShot_Anim.uasset" 163
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterAnimBlueprint.uasset" 164
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterAnimBlueprint.uasset" 165
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/FighterCharacter/FighterCharacter.uasset" 166
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Old/EnemyProjectile.uasset" 167
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Old/EnemyHealthBar.uasset" 168
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/PlayerContext.uasset" 169
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/PlayerContext1.uasset" 170
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/FindPlayer.uasset" 171
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/LoseFocus.uasset" 172
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/Shoot.uasset" 173
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/RangedFocus.uasset" 174
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/RangedBlackBoard.uasset" 175
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/RangedBehaviourTree.uasset" 176
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/RangedAi.uasset" 177
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatIdle_Skeleton.uasset" 178
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatIdle_Anim.uasset" 179
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatIdle_PhysicsAsset.uasset" 180
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Rats/rat_BaseColor.uasset" 181
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Rats/rat_Roughness.uasset" 182
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Rats/rat_Normal.uasset" 183
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Rats/rat_Metallic.uasset" 184
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Rats/Rat2MAT.uasset" 185
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatIdle.uasset" 186
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Old/Enemy_Test.uasset" 187
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Guns/GunParentFighter.uasset" 188
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/parentCharacter.uasset" 189
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterIdle_PhysicsAsset.uasset" 190
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterIdle.uasset" 191
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterIdle.uasset" 192
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/FighterChild.uasset" 193
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 194
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 195
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 196
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Enemy_Test1.uasset" 197
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Enemy_Test.uasset" 198
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/Old/TankIdle_Skeleton.uasset" 199
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/Old/TankIdle_Anim.uasset" 200
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/TankIdle_Anim.uasset" 201
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/TankCharacter/ShieldMATSolid.uasset" 202
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Shotgun/shot_gun_Roughness.uasset" 203
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Shotgun/shot_gun_Normal.uasset" 204
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Shotgun/shot_gun_Metallic.uasset" 205
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Shotgun/shot_gun_Base_Color.uasset" 206
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Shotgun/ShotgunMAT.uasset" 207
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TankCharacter/Character2_Armor_ROUGH.uasset" 208
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TankCharacter/Character2_Armor_NORM.uasset" 209
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TankCharacter/Character2_Armor_METAL.uasset" 210
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TankCharacter/Character2_Armor_DIFF.uasset" 211
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TankCharacter/TankArmorMAT.uasset" 212
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TankCharacter/Character2_Hair_and_Body_ROUGH.uasset" 213
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TankCharacter/Character2_Hair_and_Body_NORM.uasset" 214
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TankCharacter/Character2_Hair_and_Body_METAL.uasset" 215
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TankCharacter/Character2_Hair_and_Body_DIFF.uasset" 216
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TankCharacter/TankBodyHairMAT.uasset" 217
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/Old/TankIdle_PhysicsAsset.uasset" 218
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/Old/TankIdle.uasset" 219
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/TankIdle.uasset" 220
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/Old/TankShieldSlam_Anim.uasset" 221
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/Old/TankSingleShot_Anim.uasset" 222
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/Old/TankJog_Anim.uasset" 223
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/Old/TankReload_Anim.uasset" 224
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/Old/TankAnimationBlueprint.uasset" 225
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/TankAnimationBlueprint.uasset" 226
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/TankCharacter/TankCharacter.uasset" 227
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/RatSqueak2.uasset" 228
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Old/EnemyProjectile1.uasset" 229
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/Shoot1.uasset" 230
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/RangedFocus1.uasset" 231
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/RangedBlackBoard1.uasset" 232
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/RangedBehaviourTree1.uasset" 233
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/AI/RangedAi1.uasset" 234
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Old/Enemy_Test1.uasset" 235
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Old/Point_SpawnEnemies.uasset" 236
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Point_SpawnEnemies.uasset" 237
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Point_SpawnEnemies.uasset" 238
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/character1_idle_Skeleton.uasset" 239
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/character1_idle_Anim.uasset" 240
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/character_1_Runing_ANI_PhysicsAsset.uasset" 241
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/character_1_Runing_ANI.uasset" 242
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/character_1_Runing_ANI_Anim.uasset" 243
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/character_1_shooting_ANI_PhysicsAsset.uasset" 244
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/character_1_shooting_ANI.uasset" 245
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/character_1_shooting_ANI_Anim.uasset" 246
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterIdleV3_PhysicsAsset.uasset" 247
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterIdle_PhysicsAsset.uasset" 248
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterIdle_Skeleton.uasset" 249
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterReload_Anim.uasset" 250
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterRocketShot_Anim.uasset" 251
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterRun_Anim.uasset" 252
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterSingleShot_Anim.uasset" 253
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/Old/FighterWalking_Anim.uasset" 254
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/FighterWalking_Anim.uasset" 255
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/NormalZombie/Enemy_Idel_ANI_Skeleton.uasset" 256
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/NormalZombie/Enemy_Idel_ANI_PhysicsAsset.uasset" 257
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Zombies/Zombie_ROUGH.uasset" 258
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Zombies/Zombie_NORM.uasset" 259
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Zombies/Zombie_METAL.uasset" 260
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Zombies/Zombie_DIFF.uasset" 261
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Zombies/ZombieMAT.uasset" 262
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/NormalZombie/Enemy_Idel_ANI.uasset" 263
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/NormalZombie/Enemy_Idel_ANI_Anim.uasset" 264
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/NormalZombie/Enemy_Running_1_ANI_PhysicsAsset.uasset" 265
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/NormalZombie/Enemy_Running_1_ANI.uasset" 266
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/NormalZombie/Enemy_Running_1_ANI_Anim.uasset" 267
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatNoGunIdle_Skeleton.uasset" 268
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatNoGunAttack_Anim.uasset" 269
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Rats/rat_BaseColor_2_.uasset" 270
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Rats/Rat1MAT.uasset" 271
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatNoGunIdle_PhysicsAsset.uasset" 272
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatNoGunIdle.uasset" 273
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatNoGunIdle_Anim.uasset" 274
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatNoGunWalk_Anim.uasset" 275
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatShoot_Anim.uasset" 276
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Rat/RatWalk_Anim.uasset" 277
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/character2_idel_Skeleton.uasset" 278
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/character2_idel_PhysicsAsset.uasset" 279
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/HammerWeapon/two_handed_hammer_ROUGH.uasset" 280
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/HammerWeapon/two_handed_hammer_NORM.uasset" 281
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/HammerWeapon/two_handed_hammer_METAL.uasset" 282
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/HammerWeapon/two_handed_hammer_DIFF.uasset" 283
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/HammerWeapon/HammerWeaponMAT.uasset" 284
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/character2_idel.uasset" 285
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/character2_idel_Anim.uasset" 286
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/character_2_Runing_ANI_PhysicsAsset.uasset" 287
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/character_2_Runing_ANI.uasset" 288
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/character_2_Runing_ANI_Anim.uasset" 289
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/TankIdle_PhysicsAsset.uasset" 290
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/TankIdle_Skeleton.uasset" 291
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/TankJog_Anim.uasset" 292
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/TankReload_Anim.uasset" 293
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/Old/TankShieldForward_Anim.uasset" 294
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/TankShieldForward_Anim.uasset" 295
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/TankShieldSlam_Anim.uasset" 296
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Tank/TankSingleShot_Anim.uasset" 297
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/EnemyHealthBar.uasset" 298
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/EnemyProjectile.uasset" 299
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/EnemyProjectile1.uasset" 300
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/AI/BPI_Character.uasset" 301
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/AI/ZombieAI.uasset" 302
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 303
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/zombie_Skeleton.uasset" 304
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_attack.uasset" 305
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/Zom_Attack.uasset" 306
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/ZombieParent.uasset" 307
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Fire_Zombie.uasset" 308
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Tank_Zombie.uasset" 309
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/zombie_Anim.uasset" 310
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/running_crawl.uasset" 311
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_biting.uasset" 312
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_biting__2_.uasset" 313
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_crawl.uasset" 314
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_death.uasset" 315
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_dying.uasset" 316
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_neck_bite.uasset" 317
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_scream.uasset" 318
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 319
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 320
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 321
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 322
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 323
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 324
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 325
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 326
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 327
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 328
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 329
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 330
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPersonBP/FirstPersonOverview.uasset" 331
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Geometry/Meshes/CubeMaterial.uasset" 332
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 333
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Geometry/Meshes/TemplateFloor.uasset" 334
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Guns/GrenadeActor.uasset" 335
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 336
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 337
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 338
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 339
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 340
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 341
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 342
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 343
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 344
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 345
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 346
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 347
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 348
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 349
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 350
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 351
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 352
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 353
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 354
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 355
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 356
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 357
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Textures/T_Male_N.uasset" 358
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 359
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Textures/T_Female_N.uasset" 360
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 361
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 362
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 363
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 364
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 365
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/auto_rifle.uasset" 366
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/character1_combined.uasset" 367
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/character2_UV.uasset" 368
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FirstAid/first_aid_ROUGH.uasset" 369
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FirstAid/first_aid_NORM.uasset" 370
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FirstAid/first_aid_METAL.uasset" 371
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FirstAid/first_aid_DIFF.uasset" 372
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/FirstAid/FirstAidMAT.uasset" 373
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/first_aid.uasset" 374
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Fountain/fountain_Roughness.uasset" 375
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Fountain/fountain_Metallic.uasset" 376
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Fountain/fountain_Base_Color.uasset" 377
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Fountain/FountainMAT.uasset" 378
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/fountain.uasset" 379
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Grenade/grenade_ROUGH.uasset" 380
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Grenade/grenade_NORM.uasset" 381
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Grenade/grenade_METAL.uasset" 382
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Grenade/grenade_DIFF.uasset" 383
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Grenade/GrenadeMAT.uasset" 384
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/grenade.uasset" 385
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TrashBin/New_Trash_Bin_UV_ROUGH.uasset" 386
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TrashBin/New_Trash_Bin_UV_NORM.uasset" 387
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TrashBin/New_Trash_Bin_UV_METAL.uasset" 388
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TrashBin/New_Trash_Bin_UV_DIFF.uasset" 389
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TrashBin/BinLidMAT.uasset" 390
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/New_Trash_Bin_UV.uasset" 391
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/ratorange.uasset" 392
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/rat.uasset" 393
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/ratbrown_with_gun_2.uasset" 394
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/ratorange_with_gun.uasset" 395
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/rat_with_gun.uasset" 396
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/shot_gun.uasset" 397
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/SupplyCrate/Supply_crates_ROUGH.uasset" 398
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/SupplyCrate/Supply_crates_NORM.uasset" 399
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/SupplyCrate/Supply_crates_METAL.uasset" 400
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/SupplyCrate/Supply_crates_DIFF.uasset" 401
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/SupplyCrate/SupplyCrateMAT.uasset" 402
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/Supply_crate.uasset" 403
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building2_roughness.uasset" 404
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building2_normal.uasset" 405
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building2_metallic.uasset" 406
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building2_base_color.uasset" 407
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/Building2MAT.uasset" 408
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building_1_Roughness.uasset" 409
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building_1_Normal.uasset" 410
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building_1_Metallic.uasset" 411
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building_1_BaseColor.uasset" 412
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/Building1MAT.uasset" 413
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building3_Roughness.uasset" 414
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building3_Normal.uasset" 415
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building3_Metallic.uasset" 416
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/building3_Base_Color.uasset" 417
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Buildings/Building3MAT.uasset" 418
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/GroupBuildings5.uasset" 419
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/BuildingActors/Group_5.uasset" 420
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Helicopter/helicopter_ROUGH.uasset" 421
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Helicopter/helicopter_Opacity.uasset" 422
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Helicopter/helicopter_NORM.uasset" 423
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Helicopter/helicopter_METAL.uasset" 424
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Helicopter/helicopter_DIFF.uasset" 425
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Helicopter/HelicopterGlassMAT.uasset" 426
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Helicopter/HelicopterMAT.uasset" 427
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/Helicopter_Mainbody.uasset" 428
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/HeliBladeSmall.uasset" 429
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/HeliBladeBig.uasset" 430
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/MeshActors/HelicoptorACT.uasset" 431
+"../../Plugins/FX/Niagara/Content/Functions/Math/IsValueWithinRange.uasset" 432
+"../../Plugins/FX/Niagara/Content/Functions/GBuffer/WorldPositionToScreenUV.uasset" 433
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Lerp/Lerp_Float.uasset" 434
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Particles/Particle_Material.uasset" 435
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Particles/G_Buffer_Death_System.uasset" 436
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/TankCharacter/ShieldMATTranslucent.uasset" 437
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/TankCharacter/TransparencyMAT.uasset" 438
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/TankCharacter/TransparentcyINST.uasset" 439
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/Music/MenuMusic.uasset" 440
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/FemaleDying3.uasset" 441
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/RatSqueak3.uasset" 442
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/RatSqueak4.uasset" 443
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/ShieldExpand.uasset" 444
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/ShotgunShoot.uasset" 445
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/SoundEffects/WinTrumpets.uasset" 446
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Basic_Wall.uasset" 447
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/Pillar_50x500.uasset" 448
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/Wall_400x300.uasset" 449
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/Wall_400x400.uasset" 450
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/Wall_500x500.uasset" 451
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 452
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 453
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Collapse01.uasset" 454
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Collapse02.uasset" 455
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Explosion02.uasset" 456
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Fire01.uasset" 457
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Fire_Sparks01.uasset" 458
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Light01.uasset" 459
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Light01_Cue.uasset" 460
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Light02.uasset" 461
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Light02_Cue.uasset" 462
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Smoke01.uasset" 463
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Starter_Birds01.uasset" 464
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Starter_Music01.uasset" 465
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Starter_Wind05.uasset" 466
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Starter_Wind06.uasset" 467
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Steam01.uasset" 468
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Explosion_Cue.uasset" 469
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 470
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 471
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 472
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Bush_N.uasset" 473
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Bush_D.uasset" 474
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_Bush.uasset" 475
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_Bush.uasset" 476
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Chair_N.uasset" 477
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Chair_M.uasset" 478
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_Chair.uasset" 479
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_Couch.uasset" 480
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Glass.uasset" 481
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Door_N.uasset" 482
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Door_M.uasset" 483
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_Door.uasset" 484
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_Door.uasset" 485
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 486
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 487
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 488
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 489
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 490
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_RockMesh_N.uasset" 491
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_RockMesh_M.uasset" 492
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_Rock.uasset" 493
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_Rock.uasset" 494
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Shelf_N.uasset" 495
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Shelf_M.uasset" 496
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_Shelf.uasset" 497
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_Shelf.uasset" 498
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Basic_Floor.uasset" 499
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_Stairs.uasset" 500
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Cone.uasset" 501
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 502
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 503
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Pipe.uasset" 504
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 505
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 506
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Plane.uasset" 507
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Torus.uasset" 508
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Trim.uasset" 509
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 510
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 511
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 512
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Tube.uasset" 513
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 514
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 515
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 516
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AmmoClip/Ammo_clip_ROUGH.uasset" 517
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AmmoClip/Ammo_clip_NORM.uasset" 518
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AmmoClip/Ammo_clip_METAL.uasset" 519
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AmmoClip/Ammo_clip_DIFF.uasset" 520
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AmmoClip/AmmoClipMAT.uasset" 521
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AutoRifle/auto-filfe_Base_Color.uasset" 522
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AutoRifle/auto-filfe_Metallic.uasset" 523
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AutoRifle/auto-filfe_Normal.uasset" 524
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/AutoRifle/auto-filfe_Roughness.uasset" 525
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bus/Bus_UV_1001_BaseColor.uasset" 526
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bus/Bus_UV_1001_Normal.uasset" 527
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bus/Bus_UV_1001_Roughness.uasset" 528
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Bullet.uasset" 529
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/HUD/ParentUIWidget.uasset" 530
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/GameOver/HighScoreTitle.uasset" 531
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/MainMenu/MenuBackground.uasset" 532
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/MainMenu/QuitButton.uasset" 533
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 534
+"../../Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 535
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 536
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset" 537
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/CylinderLocation.uasset" 538
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 539
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/Vector2DFromCurve.uasset" 540
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 541
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeVector.uasset" 542
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RadiusEffect/WooshieALPHA.uasset" 543
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RadiusEffect/SparkMAT.uasset" 544
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 545
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 546
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 547
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 548
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RadiusEffect/GlowMAT.uasset" 549
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/BloodHit/LiquidNORM.uasset" 550
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/BloodHit/LiquidGrey.uasset" 551
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/BloodHit/Blood1MAT.uasset" 552
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/BloodHit/BloodHitFX.uasset" 553
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/BloodHit/MistyMAT.uasset" 554
+"../../Plugins/FX/Niagara/Content/Functions/CalculateTriangleArea.uasset" 555
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/MeshInterface/Initialize_MeshReproductionSprite.uasset" 556
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Add/Add_Vector.uasset" 557
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/V2/PointAttractionForce.uasset" 558
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/FlamingZombie/FlamesGrey.uasset" 559
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/FlamingZombie/FlamesColoured.uasset" 560
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/FlamingZombie/FlamingMAT.uasset" 561
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/FlamingZombie/EmberMAT.uasset" 562
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/FlamingZombie/WaveNORM.uasset" 563
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/FlamingZombie/DistortionMAT.uasset" 564
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/FlamingZombie/FlamingZom_FX.uasset" 565
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRestitutionMergeType.uasset" 566
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraFrictionMergeType.uasset" 567
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCollisionRadiusOptions.uasset" 568
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uasset" 569
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_GPUCollisionType.uasset" 570
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/ApplyInitialForces.uasset" 571
+"../../Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uasset" 572
+"../../Plugins/FX/Niagara/Content/Functions/Collision/RandomizeCollisionNormals.uasset" 573
+"../../Plugins/FX/Niagara/Content/Functions/Collision/PlaneSphereCollisionDetection.uasset" 574
+"../../Plugins/FX/Niagara/Content/Functions/ReflectVector.uasset" 575
+"../../Plugins/FX/Niagara/Content/Modules/Collision/SceneDepthTest.uasset" 576
+"../../Plugins/FX/Niagara/Content/Modules/Collision/NiagaraDistanceFieldCollisions.uasset" 577
+"../../Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uasset" 578
+"../../Plugins/FX/Niagara/Content/Functions/Math/CentimeterMeterConversion.uasset" 579
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_CPUCollisionType.uasset" 580
+"../../Plugins/FX/Niagara/Content/Modules/Collision/CollisionQueryAndResponse.uasset" 581
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 582
+"../../Plugins/FX/Niagara/Content/Functions/CalculateRadiusFromSpriteSize.uasset" 583
+"../../Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uasset" 584
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 585
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 586
+"../../Plugins/FX/Niagara/Content/Modules/Collision/Collision.uasset" 587
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/UltAura/EmptyEmitter.uasset" 588
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RubbleFires/Explosion2Grey.uasset" 589
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RubbleFires/ExplosiveSmokeMAT.uasset" 590
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/GrenadeExplosion/SmokeBall.uasset" 591
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/GrenadeExplosion/SmokeBallMAT.uasset" 592
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/GrenadeExplosion/KaboomBall.uasset" 593
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/GrenadeExplosion/Explosion2MAT.uasset" 594
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/GrenadeExplosion/KaboomFuzz.uasset" 595
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/GrenadeExplosion/Explosion1MAT.uasset" 596
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/GrenadeExplosion/GrenadeExplosionFX.uasset" 597
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/MuzzleFlash/SmokeMAT.uasset" 598
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/MuzzleFlash/Flash2ALPHA.uasset" 599
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/MuzzleFlash/Flash2MAT.uasset" 600
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/MuzzleFlash/FlashObject2.uasset" 601
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/MuzzleFlash/FlashALPHA.uasset" 602
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/MuzzleFlash/FlashMAT.uasset" 603
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/MuzzleFlash/FlashObject.uasset" 604
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/MuzzleFlash/MuzzleFlashFX.uasset" 605
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeVector2D.uasset" 606
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RadiusEffect/Shape01.uasset" 607
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RadiusEffect/RadiusMAT.uasset" 608
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RadiusEffect/RadiusFX.uasset" 609
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RadiusEffect/ShockWaveALPHA.uasset" 610
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RadiusEffect/ShockwaveMAT.uasset" 611
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RadiusEffect/AuraRadiusFX.uasset" 612
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RadiusEffect/GrenadeRingFX.uasset" 613
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RubbleFires/ExplosionGrey.uasset" 614
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RubbleFires/ExplosiveFireMAT.uasset" 615
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/RubbleFires/HugeFiresFX.uasset" 616
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/AccelerationForce.uasset" 617
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Angles/NormalizedAngleToDegrees.uasset" 618
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/UltAura/RadialRampMAT.uasset" 619
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/character1_idle_PhysicsAsset.uasset" 620
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Animations/Fighter/character1_idle.uasset" 621
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/VFX/UltAura/UltAuraFX.uasset" 622
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 623
+"../../../Engine/Content/BasicShapes/Cone.uasset" 624
+"../../../Engine/Content/BasicShapes/Plane.uasset" 625
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 626
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 627
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 628
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 629
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 630
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 631
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 632
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 633
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 634
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 635
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 636
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 637
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 638
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 639
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 640
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 641
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 642
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 643
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 644
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 645
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 646
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 647
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 648
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 649
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 650
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 651
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 652
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 653
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 654
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 655
+"../../../Engine/Content/EditorResources/S_Note.uasset" 656
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 657
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 658
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 659
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 660
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 661
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 662
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 663
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 664
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 665
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 666
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 667
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 668
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 669
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 670
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 671
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 672
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 673
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 674
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 675
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 676
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 677
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 678
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 679
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 680
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 681
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 682
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 683
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 684
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 685
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 686
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 687
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 688
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 689
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 690
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 691
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 692
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 693
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 694
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 695
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 696
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 697
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 698
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 699
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 700
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 701
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 702
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 703
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 704
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 705
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 706
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 707
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 708
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 709
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 710
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 711
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 712
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 713
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 714
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 715
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 716
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 717
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 718
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 719
+"../../../Engine/Content/EngineResources/Black.uasset" 720
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 721
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 722
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 723
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 724
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 725
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 726
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 727
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 728
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 729
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 730
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 731
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 732
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 733
+"../../../Engine/Content/EngineSounds/Master.uasset" 734
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 735
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 736
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 737
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 738
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 739
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 740
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 741
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 742
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 743
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 744
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 745
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 746
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 747
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 748
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 749
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 750
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 751
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 752
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 753
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 754
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 755
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 756
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 757
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 758
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 759
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 760
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 761
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 762
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 763
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 764
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 765
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 766
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 767
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 768
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 769
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 770
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 771
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 772
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 773
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 774
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 775
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 776
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 777
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 778
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 779
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 780
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 781
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 782
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 783
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 784
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 785
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 786
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 787
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 788
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 789
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 790
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 791
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 792
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 793
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 794
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 795
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 796
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 797
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 798
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 799
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 800
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 801
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 802
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 803
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 804
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 805
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 806
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 807
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 808
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 809
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 810
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 811
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/TankIcon.uasset" 812
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/ShieldSlam.uasset" 813
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/ShieldExpand.uasset" 814
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/HealthCircleBackground.uasset" 815
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/HealthCircle.uasset" 816
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/HealthBar.uasset" 817
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/TankWidget.uasset" 818
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Respawn/YouDied.uasset" 819
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Respawn/RespawnOverlay.uasset" 820
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Missle.uasset" 821
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/FighterIcon.uasset" 822
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/FieryBullets.uasset" 823
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/FighterWidget.uasset" 824
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/SplitScreen/Players.uasset" 825
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Geometry/Meshes/1M_Cube.uasset" 826
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 827
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 828
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 829
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 830
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 831
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 832
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 833
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 834
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 835
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 836
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 837
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/Gameover/WinTitle.uasset" 838
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/Gameover/Gameover.uasset" 839
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Timer.uasset" 840
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/TimerDisplay/Timer.uasset" 841
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 842
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 843
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 844
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 845
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 846
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 847
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 848
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 849
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 850
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 851
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 852
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 853
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 854
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 855
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 856
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 857
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 858
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 859
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 860
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 861
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 862
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 863
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 864
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 865
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 866
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 867
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 868
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 869
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 870
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 871
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 872
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Blueprints/EQSTestPawn.uasset" 873
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/zombie_PhysicsAsset.uasset" 874
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Zombie_diffuse.uasset" 875
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Zombie_normal.uasset" 876
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Zombie_specular.uasset" 877
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Zombie_COL.uasset" 878
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/zombie.uasset" 879
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_run.uasset" 880
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_walk.uasset" 881
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/zombie_idle.uasset" 882
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Zom_Idle-Run_Blend1D.uasset" 883
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Animations/ZomAnimBP.uasset" 884
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/Basic_Zombie.uasset" 885
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/RespawnPoint.uasset" 886
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Enemies/Zombies/AI/Jump_NavLink.uasset" 887
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPersonBP/Maps/BAILEYTESTING.umap" 888
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/TankChild.uasset" 889
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/ratbrown.uasset" 890
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Guns/AmmoActor.uasset" 891
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/FirstPersonBP/Maps/BELLATESTING.umap" 892
+"../../../Engine/Content/BasicShapes/Cube.uasset" 893
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Road/stone_road_texture.uasset" 894
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Road/StoneRoadMAT.uasset" 895
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Road/road_texture.uasset" 896
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Road/RoadMAT.uasset" 897
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/building_2.uasset" 898
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/building_1.uasset" 899
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/building3.uasset" 900
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/RandomBuildingACT.uasset" 901
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bus/Bus_UV_ROUGH.uasset" 902
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bus/Bus_UV_NORM.uasset" 903
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bus/Bus_UV_METAL.uasset" 904
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bus/Bus_UV_DIFF.uasset" 905
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bus/BusMAT.uasset" 906
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/Bus_UV.uasset" 907
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/MeshActors/BusActor.uasset" 908
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/BusActor.uasset" 909
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Levels/CityLevel.umap" 910
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/PostOfficeBox/post_office_box_Roughness.uasset" 911
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/PostOfficeBox/post_office_box_Normal.uasset" 912
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/PostOfficeBox/post_office_box_Base_Color.uasset" 913
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/PostOfficeBox/PostBoxMAT.uasset" 914
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/post_office_box_pCylinder2.uasset" 915
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TrashBin/out_door_trash_bin_Roughness.uasset" 916
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TrashBin/out_door_trash_bin_Normal.uasset" 917
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TrashBin/out_door_trash_bin_Base_Color.uasset" 918
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/TrashBin/BinMAT.uasset" 919
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/out_door_trash_bin_polySurface102.uasset" 920
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/TankCharacter/ShieldPart2.uasset" 921
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Players/TankCharacter/ShieldPart1.uasset" 922
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/tree2_DIFF.uasset" 923
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/tree1_Roughness.uasset" 924
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/tree1_Normal.uasset" 925
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/Trunk1MAT.uasset" 926
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/tree_1_leaves.uasset" 927
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/leaves_1_black.uasset" 928
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/Leaves1MAT.uasset" 929
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/Tree2V2.uasset" 930
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/MeshActors/Tree2ACT.uasset" 931
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/Tree2ACT.uasset" 932
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/Music/GameplayMusic.uasset" 933
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Sounds/Music/CityAmbience.uasset" 934
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/tree1_Base_Color.uasset" 935
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/lambert2_Roughness.uasset" 936
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/lambert2_Normal.uasset" 937
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/Trunk2MAT.uasset" 938
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/leaf2_DIFF.uasset" 939
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/leaf2_Aplha2.uasset" 940
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Trees/Leaves2MAT.uasset" 941
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/Tree1V2.uasset" 942
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/MeshActors/Tree1ACT.uasset" 943
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/Tree1ACT.uasset" 944
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/StreetLamp/street_light_ROUGH.uasset" 945
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/StreetLamp/street_light_NORM.uasset" 946
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/StreetLamp/street_light_METAL.uasset" 947
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/StreetLamp/street_light_DIFF.uasset" 948
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/StreetLamp/StreetLampMAT.uasset" 949
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/street_light_UV.uasset" 950
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/MeshActors/LightACTOR.uasset" 951
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/LightACTOR.uasset" 952
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/GroupBuildings6.uasset" 953
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/BuildingActors/Group_6.uasset" 954
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/GroupBuildings4.uasset" 955
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/BuildingActors/Group_4.uasset" 956
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/GroupBuildings3.uasset" 957
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/BuildingActors/Group_3.uasset" 958
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/GroupBuildings2.uasset" 959
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/BuildingActors/Group_2.uasset" 960
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/GroupBuildings1.uasset" 961
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/BuildingActors/Group_1.uasset" 962
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bench/bench_Roughness.uasset" 963
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bench/bench_Normal.uasset" 964
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bench/bench_Metallic.uasset" 965
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bench/bench_Base_Color.uasset" 966
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Textures/Bench/BenchMAT.uasset" 967
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/bench_pCube24.uasset" 968
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/MeshActors/BenchACT.uasset" 969
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/ObjectMeshes/BenchACT.uasset" 970
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Levels/MainLevel.umap" 971
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/MainMenu/MenuTitle.uasset" 972
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/CustomGameInstance.uasset" 973
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/UI/Menus/MainMenu/MainMenuUI.uasset" 974
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/Levels/MainMenu.umap" 975
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_AssetPlatform.uasset" 976
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 977
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 978
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 979
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 980
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 981
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 982
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 983
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 984
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 985
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 986
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 987
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 988
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 989
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 990
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 991
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 992
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 993
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 994
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 995
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 996
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 997
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Maps/Advanced_Lighting.umap" 998
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 999
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/Floor_400x400.uasset" 1000
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_TableRound_N.uasset" 1001
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_TableRound_M.uasset" 1002
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1003
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_TableRound.uasset" 1004
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Statue_N.uasset" 1005
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Statue_M.uasset" 1006
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_Statue.uasset" 1007
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1008
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_Statue.uasset" 1009
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_Chair.uasset" 1010
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1011
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1012
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_MacroVariation.uasset" 1013
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1014
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1015
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1016
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1017
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1018
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Maps/Minimal_Default.umap" 1019
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1020
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1021
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Shapes/Shape_Cube.uasset" 1022
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Frame_N.uasset" 1023
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Frame_M.uasset" 1024
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_Frame.uasset" 1025
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_WindowFrame.uasset" 1026
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1027
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_PillarFrame.uasset" 1028
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_GlassWindow.uasset" 1029
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_DoorFrame.uasset" 1030
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1031
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Collapse_Cue.uasset" 1032
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1033
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1034
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Architecture/Wall_400x200.uasset" 1035
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_CornerFrame.uasset" 1036
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/MaterialSphere.uasset" 1037
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1038
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1039
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1040
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1041
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1042
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1043
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1044
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1045
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1046
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1047
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1048
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1049
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1050
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1051
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1052
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1053
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1054
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1055
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Water_M.uasset" 1056
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Water_N.uasset" 1057
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1058
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Water_Lake.uasset" 1059
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1060
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1061
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1062
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1063
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1064
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1065
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1066
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1067
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1068
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1069
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1070
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1071
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1072
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1073
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1074
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1075
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1076
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1077
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1078
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1079
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1080
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1081
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1082
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1083
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1084
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1085
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1086
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1087
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1088
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1089
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1090
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1091
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1092
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1093
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1094
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1095
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1096
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1097
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1098
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1099
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1100
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1101
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1102
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1103
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1104
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1105
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1106
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1107
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1108
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1109
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1110
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1111
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1112
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1113
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1114
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1115
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1116
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1117
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1118
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1119
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1120
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1121
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1122
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1123
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1124
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1125
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1126
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1127
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1128
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1129
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1130
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1131
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1132
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1133
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1134
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1135
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1136
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1137
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1138
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1139
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1140
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1141
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1142
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1143
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1144
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1145
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1146
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1147
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Lamp_N.uasset" 1148
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Lamp_M.uasset" 1149
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1150
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1151
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1152
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1153
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Steam01_Cue.uasset" 1154
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1155
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1156
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Spark_Core.uasset" 1157
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1158
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1159
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/P_Sparks.uasset" 1160
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1161
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1162
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/P_Smoke.uasset" 1163
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1164
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Audio/Fire01_Cue.uasset" 1165
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1166
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1167
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1168
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1169
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Particles/P_Fire.uasset" 1170
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1171
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1172
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1173
+"C:/Users/Bailey/Desktop/MiniProduction 2/Mini2/Content/StarterContent/Maps/StarterMap.umap" 1174
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1175
+"../../../Engine/Content/Maps/Entry.umap" 1176
