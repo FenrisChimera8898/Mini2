@@ -2,18 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.26",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "RawInput",
-			"Enabled": true
-		},
-		{
-			"Name": "WinDualShock",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		}
-	]
+	"Description": ""
 }
